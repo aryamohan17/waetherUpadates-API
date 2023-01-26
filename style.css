@@ -8,17 +8,17 @@
 .tempImage{
     height: 54px;
     width: 61px;
-    margin-left: -182px;
+    margin-left: -342px;
 }
 .temp{
     margin-left: 10px;
     font-size: 28px;
 }
 .d1{
-    width: 25%;
+    width: 50%;
 }
 .d2{
-    width: 25%;
+    width: 50%;
 }
 .humImage{
     height: 54px;
@@ -32,7 +32,7 @@
 .locImage{
     height: 54px;
     width: 61px;
-    margin-left: -128px;
+    margin-left: -170px;
 }
 .loc{
     margin-left: -5px;
