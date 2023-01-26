@@ -8,11 +8,17 @@
 .tempImage{
     height: 54px;
     width: 61px;
-    margin-left: -370px;
+    margin-left: -182px;
 }
 .temp{
     margin-left: 10px;
     font-size: 28px;
+}
+.d1{
+    width: 25%;
+}
+.d2{
+    width: 25%;
 }
 .humImage{
     height: 54px;
@@ -20,13 +26,13 @@
     margin-left: 9px;
 }
 .hum{
-    margin-left: 387px;
+    margin-left: 131px;
     font-size: 28px;
 }
 .locImage{
     height: 54px;
     width: 61px;
-    margin-left: -421px;
+    margin-left: -128px;
 }
 .loc{
     margin-left: -5px;
@@ -65,6 +71,12 @@
     .loc{
         margin-left: -5px;
         font-size: 20px;
+    }
+    .d1{
+        width: 75%;
+    }
+    .d2{
+        width: 75%;
     }
     /* .videos{
         position: fixed;
