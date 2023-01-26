@@ -1,0 +1,2 @@
+git commit -m "weather"
+git remote add weatherUpdates https://github.com/aryamohan7/weather-updates.git
